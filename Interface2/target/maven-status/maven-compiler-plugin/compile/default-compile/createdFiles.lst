@@ -1,0 +1,5 @@
+com\mycompany\interface2\Interface2.class
+com\mycompany\interface2\GeometricObject.class
+com\mycompany\interface2\Circle.class
+com\mycompany\interface2\Rectangle.class
+com\mycompany\interface2\Triangle.class

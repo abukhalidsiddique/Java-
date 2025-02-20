@@ -1,0 +1,6 @@
+com\mycompany\interface3\Bus.class
+com\mycompany\interface3\Interface3.class
+com\mycompany\interface3\Airplane.class
+com\mycompany\interface3\Train.class
+com\mycompany\interface3\Service.class
+com\mycompany\interface3\Transportation.class
